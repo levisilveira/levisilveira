@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hey there, I'm a software ninja diving headfirst into the epic world of the Google development scene – think Golang and Google Cloud, yeah! My jam? Crafting mind-blowing solutions that'd make even Iron Man raise an eyebrow. I'm dead-set on becoming the Jedi Grandmaster of Google Cloud Architect land. Right now, I'm on the hunt for a gig that lets me turn my brainpower into solid skills with these game-changer technologies.
+Hey there, I'm a software engineer diving into the world of Google development – Golang and Google Cloud, anyone? I enjoy crafting solutions that stand out. My goal? Mastering Google Cloud Architecture. Currently seeking a role that lets me build hands-on expertise with these transformative technologies.
 
-I've got this killer résumé of rocking contributions in big-shot companies. I’m the maestro behind success stories in the ever-shifting realm of software magic. Teamwork? Oh, you bet! I'm like the conductor of an orchestra of genius minds, weaving innovation like a rockstar.
+I've worked on some cool projects in notable companies. I've been part of successful software stories. Collaboration? It's my thing! I enjoy working with talented teams, creating innovation together.
 
-I'm a learning addict, always plugged into the latest in cloud computing. So, brace yourself – I'm here to conquer challenges and transform the game using the beastly powers of the Google stack. Ready to ride this adventure? 🚀
+I'm always learning, especially about cloud tech. Get ready – I'm here to tackle challenges and make an impact using the power of the Google stack. Ready for the adventure? 🚀 🚀
 
 <!--
 **levisilveira/levisilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
